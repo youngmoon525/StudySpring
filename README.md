@@ -1,2 +1,0 @@
-# StudySpring
-Spring test
